@@ -1,5 +1,5 @@
 # SSA-Core-Analytics-Case-Study-using-Python-and-Tableau
-Core Analytics Case study challenge solved using Python and Tableau. I have also attached python file, python excel solution file, detail description of solution word doc file. Case study solution Tableau dashboard and PPT file.  
+Core Analytics Case study challenge is solving and answering Sales Team case questions using Python and Tableau.I have attached python file, python excel solution file, detail description of solution word doc file. Case study solution Tableau dashboard and PPT file.  
 I have shared Tableau Public dashboard link:
 https://public.tableau.com/views/CoreAnalytics/TwilioAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link
 
