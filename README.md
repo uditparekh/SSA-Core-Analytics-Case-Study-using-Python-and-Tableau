@@ -1,5 +1,8 @@
 # SSA-Core-Analytics-Case-Study-using-Python-and-Tableau
 Core Analytics Case study challenge solved using Python and Tableau. I have also attached python file, python excel solution file, detail description of solution word doc file. Case study solution Tableau dashboard and PPT file.  
+I have shared Tableau Public dashboard link:
+https://public.tableau.com/views/CoreAnalytics/TwilioAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link
+
 The case study document and the data sets file are also attached  
 Below I have shared the brief information about case study background and prompt questions which is required to answer in the case study 
 1) Background: In the sales team, reps work on multiple opportunities varying in deal size and age (life cycle of a deal). Reps RSE increases as they get more tenured in the company, in a particular role and segment. 
